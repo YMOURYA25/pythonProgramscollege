@@ -1,0 +1,2 @@
+def dj():
+    return 'dj'
